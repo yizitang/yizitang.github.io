@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0a55"],{4355:function(n,s,t){"use strict";t.r(s);var e=function(){var n=this,s=n.$createElement,t=n._self._c||s;return t("div",{staticClass:"container"},[n._v(" this is my sponsor page ")])},a=[],c={},i=c,l=t("2877"),o=Object(l["a"])(i,e,a,!1,null,null,null);s["default"]=o.exports}}]);
+//# sourceMappingURL=chunk-2d0c0a55.412a7789.js.map

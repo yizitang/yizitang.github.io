@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2245ac"],{e07b:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"container"},[e._v(" this is voicefate page ")])},c=[],s=t("2877"),i={},l=Object(s["a"])(i,a,c,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d2245ac.7ebdf8eb.js.map

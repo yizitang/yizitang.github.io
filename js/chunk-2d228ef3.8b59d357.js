@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d228ef3"],{daff:function(e,n,s){"use strict";s.r(n);var t=function(){var e=this,n=e.$createElement,s=e._self._c||n;return s("div",{staticClass:"container"},[e._v(" this is my message page ")])},a=[],c={},i=c,l=s("2877"),u=Object(l["a"])(i,t,a,!1,null,null,null);n["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d228ef3.8b59d357.js.map
